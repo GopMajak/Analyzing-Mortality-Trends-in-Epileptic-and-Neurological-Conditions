@@ -1,0 +1,44 @@
+Analyzing Mortality Trends in Neurological and Epileptic Disorders Across U.S. States.....................................................................................................
+
+This project aims to investigate trends in neurological and epileptic mortality across all U.S. states from 1999 to 2020. 
+By analyzing mortality counts and population data provided by the Centers for Disease Control and Prevention (CDC), 
+the study examines whether these deaths are rising disproportionately in certain areas or at alarming rates nationwide.
+
+Dataset:
+
+Underlying Cause of Death, 1999-2020.txt: This file contains annual death and population counts related to overall neurological disorders across all U.S. states for the period 1999–2020.
+Underlying Cause of Death, 1999-2020 Epilepsy.txt: This file provides annual death and population counts specifically for epilepsy-related disorders 
+over the same time frame and for the same states.
+
+Task.......................................................................................................................................................................................
+Conducted Comprehensive Mortality Trend Analysis: Analyzed mortality data on neurological and epileptic disorders across all U.S. states from 1999 to 2020, 
+identifying regional variations in death rates and counts for both conditions.
+
+Utilized CDC Data for Statistical Evaluation: Processed and compared death and population counts from CDC-provided datasets to calculate mortality rates, 
+revealing significant disparities in neurological and epilepsy-related deaths across states, with a focus on states like California, Texas, and Florida. 
+
+Identified Key Regional Patterns and Disparities: Investigated state-specific trends, highlighting areas with disproportionately high neurological death rates, 
+such as Alaska and Wyoming, and pinpointed regions where epilepsy deaths were particularly impactful despite smaller populations, suggesting environmental and public health considerations.
+
+Results of Analyzing Mortality Trends in Neurological and Epileptic Disorders Across U.S. States...........................................................................................
+
+The analysis of neurological and epileptic death rates and counts across U.S. states reveals significant variations in both mortality rates and absolute death counts. 
+
+Average Death Rates Sorted by Neurological Death Rate:
+The states with the highest neurological death rates include California, Texas, and Florida, with death rates exceeding 16,000 per million people. 
+These states also show a noticeable presence of epilepsy-related mortality, though the ratio between neurological deaths and epilepsy deaths varies across regions. 
+States such as Alaska, Hawaii, and Wyoming report exceptionally high neurological death rates with no recorded epilepsy-related deaths, 
+indicating a potential focus on non-epileptic neurological conditions in these regions. 
+The calculated epilepsy-to-neurological death rate ratios suggest that, in many states, the neurological death rate far outweighs that of epilepsy, 
+especially in states like South Dakota and Montana, where the epilepsy death rates are considerably higher.
+
+Average Death Counts Sorted by Neurological Death Count:
+The total number of neurological deaths shows a distinct trend, with large states such as California, Texas, and Florida leading in terms of overall death counts. 
+These states exhibit very high absolute death numbers (up to over 16,000 total neurological deaths), correlating with their larger populations. 
+In contrast, smaller states like Alaska, Wyoming, and Vermont report significantly fewer neurological deaths, with Alaska’s rate being particularly low in comparison. 
+Interestingly, smaller states such as Maine and New Mexico show relatively high epilepsy death counts despite their smaller populations, suggesting that 
+epilepsy may have a larger impact in these areas relative to the overall population.
+
+Overall, the data highlights the complex distribution of neurological and epileptic mortality across the U.S., with both higher rates and death counts concentrated in certain states, 
+possibly reflecting population size, regional environmental factors, and public health challenges. 
+The findings underscore the need for further investigation into environmental and other local factors contributing to these disparities.
